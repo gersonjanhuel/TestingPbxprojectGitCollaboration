@@ -57,6 +57,7 @@
 			children = (
 				7C969D7828377A8B005DAB62 /* TestingGitCollaborationApp.swift */,
 				7C969D7A28377A8B005DAB62 /* ContentView.swift */,
+				7C969D8B28377DEE005DAB62 /* Another New Folder */,
 				7C969D8628377BB7005DAB62 /* NewFolder */,
 				7C969D7C28377A8E005DAB62 /* Assets.xcassets */,
 				7C969D7E28377A8E005DAB62 /* Preview Content */,
@@ -79,6 +80,13 @@
 				7C969D8928377CEC005DAB62 /* 2ndSwiftUIView.swift */,
 			);
 			path = NewFolder;
+			sourceTree = "<group>";
+		};
+		7C969D8B28377DEE005DAB62 /* Another New Folder */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Another New Folder";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
