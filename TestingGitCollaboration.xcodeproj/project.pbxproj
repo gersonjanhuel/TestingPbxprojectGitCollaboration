@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7C59E5942852ED100082271F /* NewViewX1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C59E5932852ED100082271F /* NewViewX1.swift */; };
+		7C59E59D285324880082271F /* ViewY1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C59E59C285324880082271F /* ViewY1.swift */; };
 		7C969D7928377A8B005DAB62 /* TestingGitCollaborationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C969D7828377A8B005DAB62 /* TestingGitCollaborationApp.swift */; };
 		7C969D7B28377A8B005DAB62 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C969D7A28377A8B005DAB62 /* ContentView.swift */; };
 		7C969D7D28377A8E005DAB62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C969D7C28377A8E005DAB62 /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		7C59E5932852ED100082271F /* NewViewX1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewX1.swift; sourceTree = "<group>"; };
+		7C59E59C285324880082271F /* ViewY1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewY1.swift; sourceTree = "<group>"; };
 		7C969D7528377A8B005DAB62 /* TestingGitCollaboration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestingGitCollaboration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C969D7828377A8B005DAB62 /* TestingGitCollaborationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingGitCollaborationApp.swift; sourceTree = "<group>"; };
 		7C969D7A28377A8B005DAB62 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 			children = (
 				7C969D7828377A8B005DAB62 /* TestingGitCollaborationApp.swift */,
 				7C969D7A28377A8B005DAB62 /* ContentView.swift */,
+				7C59E59C285324880082271F /* ViewY1.swift */,
 				7C59E5922852ECD80082271F /* New Workspace */,
 				7C969D9128377F06005DAB62 /* 4thFolder */,
 				7C969D8E28377EAF005DAB62 /* 3rdFolder */,
@@ -198,6 +201,7 @@
 				7C59E5942852ED100082271F /* NewViewX1.swift in Sources */,
 				7C969D8828377BCF005DAB62 /* TestSwiftUIView.swift in Sources */,
 				7C969D9328377F1B005DAB62 /* 5thSwiftUIView.swift in Sources */,
+				7C59E59D285324880082271F /* ViewY1.swift in Sources */,
 				7C969D8A28377CEC005DAB62 /* 2ndSwiftUIView.swift in Sources */,
 				7C969D7B28377A8B005DAB62 /* ContentView.swift in Sources */,
 				7C969D7928377A8B005DAB62 /* TestingGitCollaborationApp.swift in Sources */,
